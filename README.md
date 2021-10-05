@@ -14,12 +14,12 @@ The NYTimes provides up to date open data on case counts nad death for COVID-19 
 
 You are to create a Jupyter Notebook that calculates the following items for the data:
 
-1. A Dataframe that contains the top 10 Counties data by total deaths over the time period.
-2. A Dataframe that contains the top 5 States data by total deaths over the time period.
+1. A DataFrame that contains the top 10 Counties data by total deaths over the time period.
+2. A DataFrame that contains the top 5 States data by total deaths over the time period.
 3. Calculate the incidence (the number of new cases per day... i.e. the difference between the cases on a day - the cases on a previous day) for the top 10 Counties.
 4. Calculate the peak incidence for the 10 counties (the day with the highest number of new cases).
 5. Plot an incidence curve for the County with the highest peak.
-6. Plot a vertucal bar graph with County as the category and the peak incidence as the measure.
+6. Plot a vertical bar graph with County as the category and the peak incidence as the measure.
 
 ## To create the notebook.
 
